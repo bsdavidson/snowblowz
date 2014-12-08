@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="snow_death_tiles" tilewidth="32" tileheight="32">
+  <image source="snow_death_tiles.png" width="672" height="256"/>
+ </tileset>
+ <layer name="Background" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJytVtsNxCAMY04yRNAtcR2iwx4npZJlJeHVDwuaUoxTE5BSinY0Q+0Q6//b26AQE3r+BqgEAR6hWIW5kZfjs7xqqM532I94d/QqjPN4kSvKM6+nQZvxMsepXtSwyyvO+5Fe2eTleaJ4lucTvcyH8386LgPn51RvtI5GvLge3uvZPuI1Zv729EZ+XuXFlr00yztTN9gLqNP7t1meV+oV82Kenz7nOvIVj93xVaZXjPO0Po/0ej44PY+i/erV7lGd5LGjczDys8f71vk70qvF90Gkd8VXqAfvGPhPWdc9gRVevnc8GpRib/B696gfICoDFA==
+  </data>
+ </layer>
+ <layer name="SnowLayer" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzFU8kNwCAMy1aMR4eAffsBCaEkzqGmD3+gsWvHdCLqAsYF7V7isHKP4xzNIZ7Mf2VRoal58+pX5VS1Fw8/9y3qk+dNWGbu7ld2FvUIechkJM0j/apsPF2W9hrpxleeT76HQWV3tma0V5HdRDPlsvJkNhdQ3y3altkpoBlyyuSp8bWFP97v9p3xkcELFfU6lA==
+  </data>
+ </layer>
+ <layer name="BumpLayer" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALqAjMoppc9uDAt7OoD4n4gngDEE2loHzpYDMRLgHgpEC+jk53oYCDshNk7CkbBUAMAcYQJCQ==
+  </data>
+ </layer>
+ <layer name="ShadowLayer" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQC6YBMSTB8De5UC8YgDsHQWjYBQQBwB8owJ1
+  </data>
+ </layer>
+ <layer name="Top" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzbmVAVAAQFEV2FVgV8AcuwrsKjAzlgrseqBiNxAKJJ/kv3Nu/BKJWCxMSVKkyZAlR55CwG+REmUqVKlRpxHw26RFmw5devQZBPwOGTFmwpQZcxYBv0t++eOfFWs2bAN+d+w5cOTEmQvXgN9X3bjz8/TJvvGMxWLv9wCS2g8c
+  </data>
+ </layer>
+</map>

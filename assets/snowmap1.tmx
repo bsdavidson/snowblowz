@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="snow_death" tilewidth="32" tileheight="32">
+  <image source="snow_death_tiles.png" width="672" height="256"/>
+ </tileset>
+ <layer name="Background" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJy9mVFOwzAQRJ1KIDUHSCSQ0hO0H5wAIU7BV28A9/8ilTzSdDrr2K3hY+U0sZ2X2fV6DUNKabfa0LndrzZmO5jfF5uy8diBfu/y87lzG7EdyH4Mj7L2br8CliW335lrl79lECanYU/dmA9MaKEX+jMD2jnQMbJdpZ0yl9PuSO9jDseHZ8zHseKYZrJofse3ZDsaDsca+ZfnHUVncE1mPtbklFl4HuVTvVQL1oCfjzIvjGMh0o75nH5PNG4Krlk3tM6/Ov+YvN5ufUV8RzPW+dQx41r9EjFGvi3pF/Fp/JViEnGiPsb60/mdn0p8LudG/kUs6beUGHnNOD9PZvyj/nX9hnTLCA3HdKs/a4cc7PLLh7Dod2pecXHgYlFzLevvcksLn/NvtPcqt/oJrfML1m4LX5T/9J5+B/Th+gPvPUgf5gRflJ/B53LEPl2vK3c9mPc6DWfpg+s3YuH+zNxqvEadJm6t6J7xudr7aq8072W/eJZ3LRu2xelqAvg58pnOj2cvmZefaw3I7ZZx/o1MGUq50sVVjYYlvmnD2AdjumVjfZjnLIZ9QfcR3S843y/pet2qzaLXlqGvsp3TbQxpTRTV5W79av3QGi+RRlE9oDlZx2MOx898Goe155JoDdboF+nm6kPeG6L+NbWU5tAt/UrcundBu5Zznd5zZ4ZW3TT+lO8e/Wrv/7d+kU699WPGFv2iOOsZf5qne+hXyhut+rk8PVaMr9XpUf3c/gvG2vVbq3erftEe0qpjb/20jtYaV+uFe/R5RD+tSdjPyvlXOtbEn9aaXKso4z3r+5H4Uz3d+ULPHT3jsuV7WEOnWelcpn8n662fO3Pqmmk9l/XUz9XKGos19Sv/b6Hmvb8C81o8
+  </data>
+ </layer>
+ <layer name="Snow Layer" width="40" height="40" opacity="0.92">
+  <data encoding="base64" compression="zlib">
+   eJztV83OxCAI5M3r3Wt5393DZ8JOAPHnW9ykB4LaQnFm0PQioutgu99Wwe5Ea3UVZbxaJxvjNte+jWtafDaHVq1Y8zd40/DD92R9EkvpW2yP8yiPWq0Yg3Xj3OqbW8wj+Fh69J7LdySOWt80Q+yqE+NhqmHu4SyfYX4WVmFcIZ/0HhceR3I/Vn9YhthdkE96jb/R/in0iR/yMnrWMdnajpx1BfaOZwryPMNNT3PaelvTuGk18iR+q/cgYq6dX3jOYZ1e/7GR04rt8V1gzPTJv6X3KI4z+Flz654oX/KoX6kxxC2C34qP9hMH8nj73NnfBeYef7O6G+1TbW2UB63+U/x/6W+njk/AaRY/yx78Hv09+OX7bHx24qf9z9WBeOmjeUb2Y9W3Gu/lm9EF/jes4sYOjhm6or86iPr3U3Z/Rvp3RA+Z/buzP3effz0MT8DvRJ99P/w6fi+aw164
+  </data>
+ </layer>
+ <layer name="Forground" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzrENgDAQBMHvPwBTg4E6fQU4fyFmpM23CgAA4LuOdKaRruaXnZnu9KS3+QUAAP5kAffABNE=
+  </data>
+ </layer>
+ <layer name="Top" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzrcNwgAURVFPACZNQPYEYNIEZCbABHsCMhvQMDG3+RIFNR+Jd6XTvOoFgVJKKaXU/5ZDHiEKKKKEMiqOv6wqaqijgSZaaCNy/GV10EWMHvoYYIiR4y9rjAmmmGGOBZZYOf6y1kiwwRY77JEic/xlHXDECWdccMUNd8df7z0+bM+vv1BKKaWUUkr9Yi+6Fg5A
+  </data>
+ </layer>
+</map>
